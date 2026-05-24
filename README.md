@@ -2,6 +2,8 @@
 
 
 Aplicação web simples desenvolvida com HTML, CSS e JavaScript consumindo a API OpenWeatherMap.
+
+
 O sistema permite pesquisar o nome de uma cidade e exibir informações climáticas em tempo real, como:
 
 
